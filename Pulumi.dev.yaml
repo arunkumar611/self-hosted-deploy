@@ -1,2 +1,4 @@
+environment:
+- pulumi_aws_oidc
 config:
   aws:region: us-west-2
